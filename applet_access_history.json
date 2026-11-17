@@ -1,0 +1,193 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-11-17T15:12:31.527196Z",
+    "firstAccessTime": "2026-11-16T22:38:39.775268Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "fa34ee43-1ad1-4635-97ef-06003faffdb5"
+      }
+    },
+    "name": "Winter Ready Deployer",
+    "description": "Easily deploy your Winter Ready website files to your private GitHub repository by following these simple upload instructions.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-16T02:55:47.365531Z",
+    "firstAccessTime": "2026-11-12T19:40:38.468072Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "18194448-0ead-4028-8fc3-19660484b883"
+      }
+    },
+    "name": "LaunchDesk AI",
+    "description": "An autonomous business operating system to research, build, manage, and scale multiple digital ventures from one unified dashboard."
+  }, {
+    "lastAccessTime": "2026-11-10T23:03:11.152862Z",
+    "firstAccessTime": "2026-11-10T16:05:10.162656Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "2e41ea67-b60b-4b87-984b-7417a6bd6755"
+      }
+    },
+    "name": "CineFrame - Script to Storyboard Studio",
+    "description": "Upload screenplays and scripts to automatically generate cinematic shot sequences, high-resolution storyboard frames (1K, 2K, 4K) with Gemini 3 Pro Image, and collaborate with an AI Director of Photography.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-11-10T23:00:56.856003Z",
+    "firstAccessTime": "2026-11-04T18:55:57.942049Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "86f4cda2-30f4-449e-acda-df29783e48f8"
+      }
+    },
+    "name": "Creator Growth Lab",
+    "description": "Free creator toolkit to review post performance against your baseline, spot high-leverage content opportunities, repurpose one idea into platform-specific drafts, generate high-retention hooks, and organize your 7-day publishing calendar.",
+    "runtimeType": 1
+  }, {
+    "lastAccessTime": "2026-10-20T16:33:23.913787Z",
+    "firstAccessTime": "2026-10-20T16:21:23.092574Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "0cf6544b-228d-401e-af05-a852f0890c71"
+      }
+    },
+    "name": "The 365-Day Short-Form Content Engine",
+    "description": "The complete Notion OS database, 100 viral hook vault, 7-day weekly cadence matrix, 12-month strategic roadmap, interactive script builder, mobile safe-zone preview simulator, and teleprompter for TikTok, Reels, Shorts, and LinkedIn video creators."
+  }, {
+    "lastAccessTime": "2026-03-12T21:32:53.295762Z",
+    "firstAccessTime": "2025-12-08T19:54:45.050785Z",
+    "source": {
+      "drive": {
+        "resourceId": "1LXEXrPH3Hiiwe5gpHdksEoGSEspz1MxX",
+        "revisionId": "0B_xFyU6O_x3MTHFITzJHNWlOM28yR0Q4WGljYVppRC9wSEJrPQ"
+      }
+    },
+    "name": "Finder Pro",
+    "description": "The ultimate automotive companion app powered by Gemini. Features include Fuse Finder, Tire Wear Analysis, Oil Check, Dashboard Light ID, Car Image Generation, and Mechanic Finder."
+  }, {
+    "lastAccessTime": "2026-01-28T13:30:14.870750Z",
+    "firstAccessTime": "2025-12-28T23:47:17.860351Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "veo_studio"
+      }
+    },
+    "name": "Veo Studio",
+    "description": "Describe any scene and get a stunning video in seconds. An effortless video generator powered by Veo."
+  }, {
+    "lastAccessTime": "2026-01-28T13:28:09.026936Z",
+    "firstAccessTime": "2026-01-28T13:28:09.026936Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "research_visualization"
+      }
+    },
+    "name": "Research Visualization",
+    "description": "Research paper reimagined as an elegant, interactive narrative site."
+  }, {
+    "lastAccessTime": "2026-01-28T13:26:45.424436Z",
+    "firstAccessTime": "2026-01-14T15:40:04.485932Z",
+    "source": {
+      "drive": {
+        "resourceId": "1smjwfFQHp0ED8sCJbRb9haiW2IKWD92u",
+        "revisionId": "0B_xFyU6O_x3MMXRLNnJ4QWt6R2kwVTJDQUdMVnlTUVk3dU5VPQ"
+      }
+    },
+    "name": "WisdomWeave: Facebook Reels Monetization Strategist",
+    "description": "An AI-powered tool to generate daily anonymous wisdom posts, Reel concepts, and high-impact monetization strategies for Facebook creators."
+  }, {
+    "lastAccessTime": "2026-01-13T15:17:17.198432Z",
+    "firstAccessTime": "2025-12-08T18:39:08.847097Z",
+    "source": {
+      "sourceType": "BUNDLED",
+      "bundled": {
+        "id": "lumina"
+      }
+    },
+    "name": "Lumina Festival",
+    "description": "Immersive event landing page with interactive scroll effects."
+  }, {
+    "lastAccessTime": "2026-01-02T23:51:56.270479Z",
+    "firstAccessTime": "2026-01-02T23:51:56.270479Z",
+    "source": {
+      "drive": {
+        "resourceId": "1n9z2xX7AigylGgA6lMJU2W35wX5tDFl1",
+        "revisionId": "0B_xFyU6O_x3MNlE3cy9BWWFGZUMwTTJqMElMRlJleWhJb0FRPQ"
+      }
+    },
+    "name": "AutoAffiliate Pro: The Ultimate Niche Builder",
+    "description": "A high-conversion dashboard for building profitable Amazon affiliate sites in the auto accessories niche. Generate product picks, SEO titles, and comparison templates instantly."
+  }, {
+    "lastAccessTime": "2026-01-02T23:21:16.601908Z",
+    "firstAccessTime": "2026-01-02T23:21:16.601908Z",
+    "source": {
+      "drive": {
+        "resourceId": "1rJiA2mu5l3gr_ZA4KYCHUPSIeRg2w5i1",
+        "revisionId": "0B_xFyU6O_x3MN3JnY1VYYXl5aDNXS0lOWXdXd2tTRUtMRGZRPQ"
+      }
+    },
+    "name": "AffiliateFlow AI",
+    "description": "A high-performance Amazon affiliate marketing suite for niche research, real-time product analysis via Google Search grounding, and AI-powered high-conversion content generation."
+  }, {
+    "lastAccessTime": "2026-01-02T23:14:34.018860Z",
+    "firstAccessTime": "2026-01-02T23:14:34.018860Z",
+    "source": {
+      "drive": {
+        "resourceId": "16PFg_zc3AC0QbVha6SwV8eMex_u3PXZf",
+        "revisionId": "0B_xFyU6O_x3MVENDZCtDUjdIdE5zaWtCWWswdDc0UE9lRDZzPQ"
+      }
+    },
+    "name": "NexusAI: Viral Engine \u0026 Micro-SaaS Studio",
+    "description": "An all-in-one AI platform to research trends, generate high-end visual assets, and build business strategies using Gemini 3 and Veo."
+  }, {
+    "lastAccessTime": "2026-01-02T02:00:39.833749Z",
+    "firstAccessTime": "2026-01-02T02:00:39.833749Z",
+    "source": {
+      "drive": {
+        "resourceId": "1G-03vkbMIujmFu6uvLZfxkeuZg4XO8sE",
+        "revisionId": "0B_xFyU6O_x3MVXQzQXprd3NTNnA5TGhNSzlLZU5Xa0hmZCtvPQ"
+      }
+    },
+    "name": "Gemini Live Voice Dashboard",
+    "description": "A high-end conversational voice app powered by Gemini 2.5 Flash Native Audio. Experience real-time, low-latency AI interactions with live transcriptions and audio visualizations."
+  }, {
+    "lastAccessTime": "2026-01-02T01:46:41.883008Z",
+    "firstAccessTime": "2025-12-06T13:26:14.327296Z",
+    "source": {
+      "drive": {
+        "resourceId": "1qd3e_9L4k33N2GuuelGPC4w1aLtXCw0T",
+        "revisionId": "0B_xFyU6O_x3MQ2xjK1ZoeGk1cXRSdjBPT3JkSndEYlMzSXA4PQ"
+      }
+    },
+    "name": "Fuse Finder Pro",
+    "description": "A production-ready offline-first React application for vehicle fuse identification, maintenance scheduling, and health reporting. Features interactive fuse diagrams, PDF export, and optional AI-powered fuse analysis."
+  }, {
+    "lastAccessTime": "2025-12-15T23:14:55.823497Z",
+    "firstAccessTime": "2025-12-06T05:47:39.238808Z",
+    "source": {
+      "drive": {
+        "resourceId": "1mD4dVeC18MdFyppfIKBw8PXUuBdk5ELc",
+        "revisionId": "0B_xFyU6O_x3MOFFmbmIzY0MvWmRSTmE5QnBpaXg5UFhtYmFNPQ"
+      }
+    },
+    "name": "Fuse Finder Pro",
+    "description": "The ultimate automotive utility suite. Find fuses, identify dashboard lights, analyze tire wear, and generate maintenance schedules using AI."
+  }, {
+    "lastAccessTime": "2025-12-08T19:48:25.977866Z",
+    "firstAccessTime": "2025-12-08T18:45:23.246699Z",
+    "source": {
+      "drive": {
+        "resourceId": "1l2phEvVb8ddi-H46eRipH-hji74AMOFs",
+        "revisionId": "0B_xFyU6O_x3MWTA0Q05WR2M2Rlp0UGlyUVhOSWRLYjlBcVlrPQ"
+      }
+    },
+    "name": "App",
+    "description": "Finder Pro - Automotive Diagnostic Tools"
+  }]
+}
